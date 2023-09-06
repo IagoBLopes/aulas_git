@@ -1,4 +1,3 @@
-# aulas_git: Git/Versionamento
+# Curso Digital: Git
 
-
-# Salvando modificações no Git
+## Salvando alterações no Git
